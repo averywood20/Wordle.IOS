@@ -1,24 +1,31 @@
-# Project 2 - Wordle
+# Project 1 - Wordle
 
-Submitted by: Avery Wood
+Submitted by: Avery
 
-Wordle is an app that generates a random target word out of a predefined list. The user will guess the word and be notified of correct and incorrect letters based on the color on the letter cells.  
+Wordle is an app that generates a random target word out of a predefined list, and users will guess the correct word. The user will be told which letters are incorrect and correct depending on the color change of the letter tiles. 
 
-Time spent: 3 hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [x] App displays a keyboard on the screen
+- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [x] User can play a basic version of Wordle, with different goal words each time
 
+The following **optional** features are implemented:
+
+- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [ ] Run the app on a device rather than in the simulator
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Notes
 
-Had trouble with github at first and committing through Xcode. Still not totally comfortable with closures.
+Had some trouble with Github and commiting through Xcode. Also still not totally comfortable with closures. 
 
 ## License
 
